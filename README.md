@@ -26,8 +26,9 @@ Hello. I'm Embedded Software and Firmware Enginner.
 
 ## Experience
 #### Education
-* Seongdong Technical High School (2012.03 ~ 2015.02)
+* HANCOM MDS Embedded Linux Training (2021.08 ~ 2022.02)
 * Hanyang Cyber University (2019.03 ~ 2022.07)
+* Seongdong Technical High School (2012.03 ~ 2015.02)
 #### Career
 * FLOWTECH (2020.07 ~ 2021.08)
     - Firmware and Hardware Assistant, PCB Design
