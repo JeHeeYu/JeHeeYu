@@ -3,7 +3,7 @@ Hello. I'm Embedded Software and Firmware Enginner.
 
 ## Technical Information 
 #### Main Target
-<img src="https://img.shields.io/badge/Embedded-00599C?style=flat-square&logo=Etsy&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Embedded-00599C?style=flat-square&logo=Etsy&logoColor=white"/></a> <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sees111">
 <img src="https://img.shields.io/badge/ARM-0091BD?style=flat-square&logo=Arm&logoColor=white"/></a>
 #### Programming Language
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
@@ -16,7 +16,6 @@ Hello. I'm Embedded Software and Firmware Enginner.
 <img src="https://img.shields.io/badge/PADS-224099?style=flat-square&logo=Pandora&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sees111">
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=JeHeeYu&show_icons=true&theme=dark" height="165"></a>
 
 
