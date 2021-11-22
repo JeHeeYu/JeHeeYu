@@ -26,11 +26,14 @@ Hello. I'm Embedded Software and Firmware Enginner.
 
 ## Experience
 #### Education
-* Seongdong Technical High School
-* Hanyang Cyber University
+* Seongdong Technical High School (2012.03 ~ 2015.02)
+* Hanyang Cyber University (2019.03 ~ 2022.07)
 #### Career
-* KLAB 
-* HSOLUTION
-* FLOWTECH
+* FLOWTECH (2020.07 ~ 2021.08)
+    - Firmware and Hardware Assistant, PCB Design
+* HSOLUTION (2020.03 ~ 2020.06)
+    - Hardware Assistant
+* KLAB  (2018.08 ~ 2020.03)
+    - Hardware Assistant and PCB Design
 
  
