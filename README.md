@@ -15,6 +15,11 @@ Hello. I'm Embedded Software and Firmware Enginner.
 <img src="https://img.shields.io/badge/OrCAD-37814A?style=flat-square&logo=Celery&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PADS-224099?style=flat-square&logo=Pandora&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
+#### Operating System
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=Fedora&logoColor=white"/></a>
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=JeHeeYu&show_icons=true&theme=dark" height="165"></a>
 
