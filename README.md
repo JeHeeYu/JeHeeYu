@@ -26,7 +26,7 @@ Hello. I'm Embedded Software and Firmware Enginner.
 
 ## Experience
 #### Education
-* HANCOM MDS Embedded Linux Training (2021.08 ~ 2022.02)
+* Hancom MDS Embedded Linux Training (2021.08 ~ 2022.02)
 * Hanyang Cyber University (2019.03 ~ 2022.07)
 * Seongdong Technical High School (2012.03 ~ 2015.02)
 #### Career
